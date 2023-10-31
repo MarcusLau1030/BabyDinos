@@ -21,10 +21,10 @@
 ---
 ### About Me:
 
-I am a student at Baruch College majoring in Financial Mathematics, currently in my sophomore year
+I am a student at Baruch College majoring in Mathematics and minoring in Computer Science currently in my final year
 
 - 📚 I am looking to improve my code and would appreciate any advice or opportunities to do so
 - 🎮 In my free time, I enjoy playing video games, coding, and investing
-- 📬 The best way to reach me would be through my email: marcus.lau@baruchmail.cuny.edu or my [LinkedIn](https://www.linkedin.com/in/marcus-lau-2a904918b/)
+- 📬 The best way to reach me would be through my email: marcus@ysocool.com or my [LinkedIn](https://www.linkedin.com/in/marcus-lau-2a904918b/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BabyDinos)](https://github.com/anuraghazra/github-readme-stats)
